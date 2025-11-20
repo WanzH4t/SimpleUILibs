@@ -1,10 +1,3 @@
---============================================================
---  AUL2 — Advanced UI Library (Xeno-friendly, single file)
---  Features: blur (optional), gradient, glow, dark theme,
---            icons, drag (mouse+touch), tabs, sections, controls,
---            color presets, callbacks, mobile support.
---  Author: generated for you
---============================================================
 local AUL2 = {}
 
 -- SERVICES
